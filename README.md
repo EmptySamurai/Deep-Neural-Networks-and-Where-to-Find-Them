@@ -6,3 +6,5 @@
 2. Go to console (Command Prompt on Windows) and print
 
     ```pip install keras```
+    
+    ```pip install tensorflow```
